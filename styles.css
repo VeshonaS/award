@@ -1,0 +1,45 @@
+img{
+    width:130pt;
+    }
+    
+h1{font-family: 'Comfortaa', cursive;
+color:white;
+}
+
+h2{
+color:white;    
+    }
+
+h3{font-family: 'Montserrat', sans-serif;
+color:white;
+
+}
+h6{font-family: 'Comfortaa', cursive;
+color:white;
+}    
+#vcld{
+    width:160pt;
+    }       
+    
+
+#two{font-family: 'Text Me One', sans-serif;}
+#three{font-family: 'Turret Road', cursive;}
+#four{font-family: 'Libre Franklin', sans-serif;}
+
+body {
+  background-image:url("https://t3.ftcdn.net/jpg/02/44/54/34/240_F_244543439_9NMawnVwGjfTTT61VXwwbMe1wtvKrI4r.jpg"); 
+  background-color: #cccccc;
+  text-align:center;
+}
+.change{
+    border-style:groove;
+    border-width:7pt;
+    border-color:#f0f0f0;
+ }
+
+.differ{
+  font-family:'Comfortaa', cursive;  
+    }
+
+
+
